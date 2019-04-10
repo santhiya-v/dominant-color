@@ -1,7 +1,7 @@
 # dominant-color
 Its a machine learning problem to identify dominant colors of the picture
 
-#Approach
+# Approach
 
 * Image pixels are flattened and clustered using K-Means Algorithm to find the dominant color centroids
 * filter_neutral_colors function is used to filter out neutral colors from the identified centroids
